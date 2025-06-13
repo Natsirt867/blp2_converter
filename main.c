@@ -1,9 +1,3 @@
-// blp2_to_dds.c
-// Minimal BLP v2 → DDS converter for DXT-encoded textures.
-//   gcc -std=c99 -O2 -o blp2_to_dds blp2_to_dds.c
-//
-// Usage:  ./blp2_to_dds <input.blp> <output.dds>
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
